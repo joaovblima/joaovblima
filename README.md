@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joao Lima</h1>
-<h3 align="center">A passionate python dev from Brazil</h3>
 
 - 🌱 I’m currently improve **my skills and enjoy a lot.**
 
@@ -8,9 +7,9 @@
 
 
 <div align="center">
-<img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovblima&show_icons=true&locale=en&layout=compact" alt="joaovblima" /></p>
+<img height="120cm"src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovblima&show_icons=true&locale=en&layout=compact" alt="joaovblima" /></p>
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaovblima&show_icons=true&locale=en" alt="joaovblima" /></p>
+<img height="120cm" src="https://github-readme-stats.vercel.app/api?username=joaovblima&show_icons=true&locale=en" alt="joaovblima" /></p>
 </div>
 
 <br>
